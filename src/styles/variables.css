@@ -1,0 +1,21 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #0f172a;
+  --muted: #6b7280;
+  --primary: #0f5bb3;
+  --primary-dark: #084a9a;
+
+  /* spacing tokens (if you want to reference from CSS) */
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+}
+
+/* Dark theme example (toggle in ThemeContext if you implement it) */
+[data-theme="dark"] {
+  --bg-color: #0b1220;
+  --text-color: #e6eef8;
+  --muted: #9aa6bd;
+  --primary: #2b6cb0;
+  --primary-dark: #234a7a;
+}
