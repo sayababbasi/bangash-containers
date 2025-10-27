@@ -3,19 +3,19 @@ import { Facebook, Linkedin, Twitter, Instagram, Mail } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 
 // 🖼️ Import all images
-import mainImg from "/public/assets/images/WhyChooseUs/PrefabCabin.jpg";
-import interior1 from "/public/assets/images/Product3/Int1.jpg";
-import interior2 from "/public/assets/images/Product3/Int2.jpg";
-import interior3 from "/public/assets/images/Product3/Int3.jpg";
-import interior4 from "/public/assets/images/Product3/Int4.jpg";
-import case1 from "/public/assets/images/Product3/Int5.jpg";
-import case2 from "/public/assets/images/Product3/Int6.jpg";
-import case3 from "/public/assets/images/Product3/Int7.jpg";
-import case4 from "/public/assets/images/Product3/Int8.jpg";
-import related1 from "/public/assets/images/Product3/Int1.jpg";
-import related2 from "/public/assets/images/Product3/Int1.jpg";
-import related3 from "/public/assets/images/Product3/Int1.jpg";
-import related4 from "/public/assets/images/Product3/Int1.jpg";
+import mainImg from "/src/assets/images/WhyChooseUs/PrefabCabin.jpg";
+import interior1 from "/src/assets/images/Product3/Int1.jpg";
+import interior2 from "/src/assets/images/Product3/Int2.jpg";
+import interior3 from "/src/assets/images/Product3/Int3.jpg";
+import interior4 from "/src/assets/images/Product3/Int4.jpg";
+import case1 from "/src/assets/images/Product3/Int5.jpg";
+import case2 from "/src/assets/images/Product3/Int6.jpg";
+import case3 from "/src/assets/images/Product3/Int7.jpg";
+import case4 from "/src/assets/images/Product3/Int8.jpg";
+import related1 from "/src/assets/images/Product3/Int1.jpg";
+import related2 from "/src/assets/images/Product3/Int1.jpg";
+import related3 from "/src/assets/images/Product3/Int1.jpg";
+import related4 from "/src/assets/images/Product3/Int1.jpg";
 
 const P1 = () => {
   const navigate = useNavigate();
