@@ -1,16 +1,16 @@
 import React, { useState } from "react";
 import { Home, MessageCircle, Mail, PhoneCall, Globe, X } from "lucide-react";
-import banner from "../../assets/images/offer.jpg"; // banner image
-import proj1 from "../../assets/images/offer.jpg"; // replace these with your real images
-import proj2 from "../../assets/images/offer.jpg";
-import proj3 from "../../assets/images/offer.jpg";
-import proj4 from "../../assets/images/offer.jpg";
-import proj5 from "../../assets/images/offer.jpg";
-import proj6 from "../../assets/images/offer.jpg";
-import proj7 from "../../assets/images/offer.jpg";
-import proj8 from "../../assets/images/offer.jpg";
-import proj9 from "../../assets/images/offer.jpg";
-import proj10 from "../../assets/images/offer.jpg";
+import banner from "/public/assets/images/WhyChooseUs/BCH Office.jpg";; // banner image
+import proj1 from"/public/assets/images/WhyChooseUs/Container Hall.jpg"; // replace these with your real images
+import proj2 from "/public/assets/images/WhyChooseUs/ContainerHome.jpg";
+import proj3 from "/public/assets/images/WhyChooseUs/ContainerOffice.jpg";
+import proj4 from "/public/assets/images/WhyChooseUs/Prefab Cabin.jpg";
+import proj5 from "/public/assets/images/WhyChooseUs/Prefab Homes.jpg";
+import proj6 from "/public/assets/images/WhyChooseUs/Prefab Hostel.jpg";
+import proj7 from "/public/assets/images/WhyChooseUs/ContainerCafe.jpg";
+import proj8 from "/public/assets/images/WhyChooseUs/HujraContainer.jpg";
+import proj9 from "/public/assets/images/WhyChooseUs/Container2.jpg";
+import proj10 from "/public/assets/images/WhyChooseUs/Cont3.jpg";
 
 const Projects = () => {
   const projects = [

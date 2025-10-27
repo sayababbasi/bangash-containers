@@ -62,17 +62,17 @@ const ExperienceSection = () => {
               {/* Gallery */}
               <div className="grid grid-cols-3 gap-2 mt-3">
                 <img
-                  src="/src/assets/images/offer.jpg"
+                  src="/public/assets/images/Industry/IND1.jpg"
                   alt=""
                   className="rounded-md object-cover h-20 w-full"
                 />
                 <img
-                  src="/src/assets/images/offer.jpg"
+                  src="/public/assets/images/Industry/IND2.jpg"
                   alt=""
                   className="rounded-md object-cover h-20 w-full"
                 />
                 <img
-                  src="/src/assets/images/offer.jpg"
+                  src="/public/assets/images/Industry/IND3.jpg"
                   alt=""
                   className="rounded-md object-cover h-20 w-full"
                 />
@@ -115,17 +115,17 @@ const ExperienceSection = () => {
               {/* Gallery */}
               <div className="grid grid-cols-3 gap-2 mt-3">
                 <img
-                  src="/src/assets/images/offer.jpg"
+                  src="/public/assets/images/Industry/IND4.jpg"
                   alt=""
                   className="rounded-md object-cover h-20 w-full"
                 />
                 <img
-                  src="/src/assets/images/offer.jpg"
+                  src="/public/assets/images/Industry/IND5.jpg"
                   alt=""
                   className="rounded-md object-cover h-20 w-full"
                 />
                 <img
-                  src="/src/assets/images/offer.jpg"
+                  src="/public/assets/images/Industry/IND6.jpg"
                   alt=""
                   className="rounded-md object-cover h-20 w-full"
                 />
@@ -137,7 +137,7 @@ const ExperienceSection = () => {
         {/* RIGHT IMAGE WITH PLAY ICON */}
         <div className="relative rounded-2xl overflow-hidden shadow-xl">
           <img
-            src="/src/assets/images/offer.jpg"
+            src="/public/assets/images/WhyChooseUs/Bch Office.jpg"
             alt="Factory"
             className="w-full h-[500px] object-cover"
           />

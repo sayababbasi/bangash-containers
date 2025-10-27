@@ -1,7 +1,21 @@
 import React from "react";
-import offerImg from "../../assets/images/offer.jpg";
 import { Facebook, Linkedin, Twitter, Instagram, Mail } from "lucide-react";
 import { useNavigate } from "react-router-dom";
+
+// 🖼️ Import all images
+import mainImg from "/src/assets/images/Product1/Container Hall.jpg";
+import interior1 from "/src/assets/images/Product1/Container Hall Int.jpg";
+import interior2 from "/src/assets/images/Product1/Container Hall Int2.jpg";
+import interior3 from "/src/assets/images/Product1/Container Hall Int3.jpg";
+import interior4 from "/src/assets/images/Product1/Container Hall Int4.jpg";
+import case1 from "/src/assets/images/Product1/Container Hall Int5.jpg";
+import case2 from "/src/assets/images/Product1/Container Hall Int6.jpg";
+import case3 from "/src/assets/images/Product1/Container Hall Int7.jpg";
+import case4 from "/src/assets/images/Product1/Container Hall Int.jpg";
+import related1 from "/src/assets/images/Product1/Container Hall Int.jpg";
+import related2 from "/src/assets/images/Product1/Container Hall Int.jpg";
+import related3 from "/src/assets/images/Product1/Container Hall Int.jpg";
+import related4 from "/src/assets/images/Product1/Container Hall Int.jpg";
 
 const P1 = () => {
   const navigate = useNavigate();
@@ -12,7 +26,7 @@ const P1 = () => {
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 bg-white rounded-lg shadow-md p-6">
         <div className="flex justify-center items-center">
           <img
-            src={offerImg}
+            src={mainImg}
             alt="Modular Flat Pack Container House"
             className="rounded-lg shadow-md w-full object-cover"
           />
@@ -68,10 +82,10 @@ const P1 = () => {
 
         {/* Interior Gallery */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
-          <img src={offerImg} alt="Interior 1" className="rounded-md shadow" />
-          <img src={offerImg} alt="Interior 2" className="rounded-md shadow" />
-          <img src={offerImg} alt="Interior 3" className="rounded-md shadow" />
-          <img src={offerImg} alt="Interior 4" className="rounded-md shadow" />
+          <img src={interior1} alt="Interior 1" className="rounded-md shadow" />
+          <img src={interior2} alt="Interior 2" className="rounded-md shadow" />
+          <img src={interior3} alt="Interior 3" className="rounded-md shadow" />
+          <img src={interior4} alt="Interior 4" className="rounded-md shadow" />
         </div>
 
         {/* Parameter Table */}
@@ -117,10 +131,10 @@ const P1 = () => {
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            <img src={offerImg} alt="Case 1" className="rounded-md shadow" />
-            <img src={offerImg} alt="Case 2" className="rounded-md shadow" />
-            <img src={offerImg} alt="Case 3" className="rounded-md shadow" />
-            <img src={offerImg} alt="Case 4" className="rounded-md shadow" />
+            <img src={case1} alt="Case 1" className="rounded-md shadow" />
+            <img src={case2} alt="Case 2" className="rounded-md shadow" />
+            <img src={case3} alt="Case 3" className="rounded-md shadow" />
+            <img src={case4} alt="Case 4" className="rounded-md shadow" />
           </div>
         </div>
       </div>
@@ -169,7 +183,7 @@ const P1 = () => {
             onClick={() => navigate("/product1")}
             className="bg-white rounded-lg shadow hover:shadow-lg transition p-3 text-center cursor-pointer"
           >
-            <img src={offerImg} alt="Product A" className="rounded-md mb-2" />
+            <img src={related1} alt="Product A" className="rounded-md mb-2" />
             <p className="text-sm font-medium text-[#0a1f44]">
               Expandable Container Home
             </p>
@@ -178,7 +192,7 @@ const P1 = () => {
             onClick={() => navigate("/product2")}
             className="bg-white rounded-lg shadow hover:shadow-lg transition p-3 text-center cursor-pointer"
           >
-            <img src={offerImg} alt="Product B" className="rounded-md mb-2" />
+            <img src={related2} alt="Product B" className="rounded-md mb-2" />
             <p className="text-sm font-medium text-[#0a1f44]">
               Office Container
             </p>
@@ -187,7 +201,7 @@ const P1 = () => {
             onClick={() => navigate("/product3")}
             className="bg-white rounded-lg shadow hover:shadow-lg transition p-3 text-center cursor-pointer"
           >
-            <img src={offerImg} alt="Product C" className="rounded-md mb-2" />
+            <img src={related3} alt="Product C" className="rounded-md mb-2" />
             <p className="text-sm font-medium text-[#0a1f44]">
               Prefabricated Room
             </p>
@@ -196,7 +210,7 @@ const P1 = () => {
             onClick={() => navigate("/product4")}
             className="bg-white rounded-lg shadow hover:shadow-lg transition p-3 text-center cursor-pointer"
           >
-            <img src={offerImg} alt="Product D" className="rounded-md mb-2" />
+            <img src={related4} alt="Product D" className="rounded-md mb-2" />
             <p className="text-sm font-medium text-[#0a1f44]">
               Living Container House
             </p>

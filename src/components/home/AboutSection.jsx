@@ -1,5 +1,5 @@
 import React from "react";
-import aboutImg from "../../assets/images/offer.jpg"; // place your image here
+import aboutImg from "/public/assets/images/WhyChooseUs/BCH Office.jpg";
 import { Building2, Users, CheckCircle } from "lucide-react";
 
 const AboutSection = () => {
