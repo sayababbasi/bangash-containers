@@ -6,12 +6,12 @@ import { useNavigate } from "react-router-dom";
 // 🖼️ Import all images
 import mainImg from "/public/assets/images/Product1/ContainerHall.jpg";
 import interior1 from "/public/assets/images/Product1/ContainerHallInt.jpg";
-import interior2 from "/public/assets/images/Product1/ContainerHallInt2.jpg";
-import interior3 from "/public/assets/images/Product1/ContainerHallInt3.jpg";
-import interior4 from "/public/assets/images/Product1/ContainerHallInt4.jpg";
-import case1 from "/public/assets/images/Product1/ContainerHallInt5.jpg";
-import case2 from "/public/assets/images/Product1/ContainerHallInt6.jpg";
-import case3 from "/public/assets/images/Product1/ContainerHallInt7.jpg";
+import interior2 from "/public/assets/images/Product1/ContainerHallInt.jpg";
+import interior3 from "/public/assets/images/Product1/ContainerHallInt.jpg";
+import interior4 from "/public/assets/images/Product1/ContainerHallInt.jpg";
+import case1 from "/public/assets/images/Product1/ContainerHallInt.jpg";
+import case2 from "/public/assets/images/Product1/ContainerHallInt.jpg";
+import case3 from "/public/assets/images/Product1/ContainerHallInt.jpg";
 import case4 from "/public/assets/images/Product1/ContainerHallInt.jpg";
 import related1 from "/public/assets/images/Product1/ContainerHallInt.jpg";
 import related2 from "/public/assets/images/Product1/ContainerHallInt.jpg";
