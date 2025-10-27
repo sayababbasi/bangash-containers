@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 import "swiper/css";
 
-import client1 from "/src/assets/images/Clients/MTCC.png";
+import client1 from "/src/assets/images/Clients/mtcc.png";
 import client2 from "/src/assets/images/Clients/nlc.png";
 import client3 from "/src/assets/images/Clients/ptcl.png";
 import client4 from "/src/assets/images/Clients/sky.png";

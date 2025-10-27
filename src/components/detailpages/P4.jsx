@@ -4,19 +4,19 @@ import { useNavigate } from "react-router-dom";
 
 // 🖼️ Import all images
 // 🖼️ Import all images
-import mainImg from "/src/assets/images/Product1/ContainerHall.jpg";
-import interior1 from "/src/assets/images/Product1/ContainerHallInt.jpg";
-import interior2 from "/src/assets/images/Product1/ContainerHallInt.jpg";
-import interior3 from "/src/assets/images/Product1/ContainerHallInt.jpg";
-import interior4 from "/src/assets/images/Product1/ContainerHallInt.jpg";
-import case1 from "/src/assets/images/Product1/ContainerHallInt.jpg";
-import case2 from "/src/assets/images/Product1/ContainerHallInt.jpg";
-import case3 from "/src/assets/images/Product1/ContainerHallInt.jpg";
-import case4 from "/src/assets/images/Product1/ContainerHallInt.jpg";
-import related1 from "/src/assets/images/Product1/ContainerHallInt.jpg";
-import related2 from "/src/assets/images/Product1/ContainerHallInt.jpg";
-import related3 from "/src/assets/images/Product1/ContainerHallInt.jpg";
-import related4 from "/src/assets/images/Product1/ContainerHallInt.jpg";
+import mainImg from "/src/assets/images/product1/containerhall.jpg";
+import interior1 from "/src/assets/images/product1/containerhallint.jpg";
+import interior2 from "/src/assets/images/product1/containerhallint2.jpg";
+import interior3 from "/src/assets/images/product1/containerhallint3.jpg";
+import interior4 from "/src/assets/images/product1/containerhallint4.jpg";
+import case1 from "/src/assets/images/product1/containerhallint5.jpg";
+import case2 from "/src/assets/images/product1/containerhallint6.jpg";
+import case3 from "/src/assets/images/product1/containerhallint7.jpg";
+import case4 from "/src/assets/images/product1/containerhallint.jpg";
+import related1 from "/src/assets/images/product1/containerhallint.jpg";
+import related2 from "/src/assets/images/product1/containerhallint.jpg";
+import related3 from "/src/assets/images/product1/containerhallint.jpg";
+import related4 from "/src/assets/images/product1/containerhallint.jpg";
 
 
 const P1 = () => {
