@@ -3,12 +3,12 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 import "swiper/css";
 
-import client1 from "../../assets/images/clients/mtcc.png";
-import client2 from "../../assets/images/clients/nlc.png";
-import client3 from "../../assets/images/clients/ptcl.png";
-import client4 from "../../assets/images/clients/sky.png";
-import client5 from "../../assets/images/clients/un.png";
-import client6 from "../../assets/images/clients/maersk.png";
+import client1 from "bangash-containers/src/assets/images/Clients/mtcc.png";
+import client2 from "bangash-containers/src/assets/images/Clients/nlc.png";
+import client3 from "bangash-containers/src/assets/images/Clients/ptcl.png";
+import client4 from "bangash-containers/src/assets/images/Clients/Sky.png";
+import client5 from "bangash-containers/src/assets/images/Clients/un.png";
+import client6 from "bangash-containers/src/assets/images/Clients/maersk.png";
 
 const clients = [
   { img: client1, name: "Client One" },
