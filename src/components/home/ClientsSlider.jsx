@@ -3,12 +3,12 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 import "swiper/css";
 
-import client1 from "/src/assets/images/Clients/mtcc.png";
-import client2 from "/src/assets/images/Clients/nlc.png";
-import client3 from "/src/assets/images/Clients/ptcl.png";
-import client4 from "/src/assets/images/Clients/sky.png";
-import client5 from "/src/assets/images/Clients/un.png";
-import client6 from "/src/assets/images/Clients/maersk.png";
+import client1 from "/src/assets/images/clients/mtcc.png";
+import client2 from "/src/assets/images/clients/nlc.png";
+import client3 from "/src/assets/images/clients/ptcl.png";
+import client4 from "/src/assets/images/clients/sky.png";
+import client5 from "/src/assets/images/clients/un.png";
+import client6 from "/src/assets/images/clients/maersk.png";
 
 const clients = [
   { img: client1, name: "Client One" },
