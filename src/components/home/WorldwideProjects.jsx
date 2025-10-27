@@ -5,8 +5,7 @@ import { Pagination, Autoplay } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/pagination";
 
-import offerImg from "/src/assets/images/whychooseus/bchoffice.jpg"; // Replace with your actual image paths
-
+import offerImg from "/src/assets/images/product1/containerhallint2.jpg";
 // Project data with route links
 const projects = [
   {
