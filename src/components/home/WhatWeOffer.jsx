@@ -142,7 +142,7 @@ import "swiper/css/pagination";
 const products = [
   {
     title: "Container Hall",
-    img: "/assets/images/WhyChooseUs/Container Hall.jpg",
+    img: "/assets/images/WhyChooseUs/ContainerHall.jpg",
     desc: "Satisfies any family needs. Professional designers are available to help you design your house layout.",
     link: "/product1",
   },
@@ -154,25 +154,25 @@ const products = [
   },
   {
     title: "PreFabricated Cabin",
-    img: "/public/assets/images/WhyChooseUs/PreFab Cabin.jpg",
+    img: "/public/assets/images/WhyChooseUs/PreFabCabin.jpg",
     desc: "The visible parts of the house can be customized, including doors, windows, and walls.",
     link: "/product3",
   },
   {
     title: "Bch Office",
-    img: "/public/assets/images/WhyChooseUs/Bch Office.jpg",
+    img: "/public/assets/images/WhyChooseUs/BchOffice.jpg",
     desc: "A modular green building that can be assembled on-site, saving time and cost.",
     link: "/product4",
   },
   {
     title: "PreFab Homes",
-    img: "/public/assets/images/WhyChooseUs/PreFab Homes.jpg",
+    img: "/public/assets/images/WhyChooseUs/PreFabHomes.jpg",
     desc: "The visible parts of the house can be customized, including doors, windows, and walls.",
     link: "/product5",
   },
   {
     title: "PreFab Hostel",
-    img: "/public/assets/images/WhyChooseUs//PreFab Hostel.jpg",
+    img: "/public/assets/images/WhyChooseUs//PreFabHostel.jpg",
     desc: "A modular green building that can be assembled on-site, saving time and cost.",
     link: "/product6",
   },

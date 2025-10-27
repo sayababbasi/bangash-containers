@@ -12,10 +12,10 @@ import case1 from "/public/assets/images/Product2/Int5.jpg";
 import case2 from "/public/assets/images/Product2/Int6.jpg";
 import case3 from "/public/assets/images/Product2/Int7.jpg";
 import case4 from "/public/assets/images/Product2/Int8.jpg";
-import related1 from "/public/assets/images/WhyChooseUs/Container Hall.jpg";
-import related2 from "/public/assets/images/WhyChooseUs/Container Hall.jpg";
-import related3 from "/public/assets/images/WhyChooseUs/Container Hall.jpg";
-import related4 from "/public/assets/images/WhyChooseUs/Container Hall.jpg";
+import related1 from "/public/assets/images/WhyChooseUs/ContainerHall.jpg";
+import related2 from "/public/assets/images/WhyChooseUs/ContainerHall.jpg";
+import related3 from "/public/assets/images/WhyChooseUs/ContainerHall.jpg";
+import related4 from "/public/assets/images/WhyChooseUs/ContainerHall.jpg";
 
 const P1 = () => {
   const navigate = useNavigate();
