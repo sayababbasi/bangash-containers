@@ -3,19 +3,21 @@ import { Facebook, Linkedin, Twitter, Instagram, Mail } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 
 // 🖼️ Import all images
-import mainImg from "/public/assets/images/Product1/containerhall.jpg";
-import interior1 from "/public/assets/images/Product1/containerhallint.jpg";
-import interior2 from "/public/assets/images/Product1/containerhallint2.jpg";
-import interior3 from "/public/assets/images/Product1/containerhallint3.jpg";
-import interior4 from "/public/assets/images/Product1/containerhallint4.jpg";
-import case1 from "/public/assets/images/Product1/containerhallint5.jpg";
-import case2 from "/public/assets/images/Product1/containerhallint6.jpg";
-import case3 from "/public/assets/images/Product1/containerhallint7.jpg";
-import case4 from "/public/assets/images/Product1/containerhallint.jpg";
-import related1 from "/public/assets/images/Product1/containerhallint.jpg";
-import related2 from "/public/assets/images/Product1/containerhallint.jpg";
-import related3 from "/public/assets/images/Product1/containerhallint.jpg";
-import related4 from "/public/assets/images/Product1/containerhallint.jpg";
+// 🖼️ Import all images
+import mainImg from "/public/assets/images/Product1/ContainerHall.jpg";
+import interior1 from "/public/assets/images/Product1/ContainerHallint.jpg";
+import interior2 from "/public/assets/images/Product1/ContainerHallint2.jpg";
+import interior3 from "/public/assets/images/Product1/ContainerHallint3.jpg";
+import interior4 from "/public/assets/images/Product1/ContainerHallint4.jpg";
+import case1 from "/public/assets/images/Product1/ContainerHallint5.jpg";
+import case2 from "/public/assets/images/Product1/ContainerHallint6.jpg";
+import case3 from "/public/assets/images/Product1/ContainerHallint7.jpg";
+import case4 from "/public/assets/images/Product1/ContainerHallint.jpg";
+import related1 from "/public/assets/images/Product1/ContainerHallint.jpg";
+import related2 from "/public/assets/images/Product1/ContainerHallint.jpg";
+import related3 from "/public/assets/images/Product1/ContainerHallint.jpg";
+import related4 from "/public/assets/images/Product1/ContainerHallint.jpg";
+
 const P1 = () => {
   const navigate = useNavigate();
 
