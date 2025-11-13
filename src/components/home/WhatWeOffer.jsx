@@ -142,7 +142,7 @@ import "swiper/css/pagination";
 const products = [
   {
     title: "Container Hall",
-    img: "/assets/images/whychooseus/containerhall.jpg",
+    img: "/src/assets/images/whychooseus/ContainerHall.jpg",
     desc: "Satisfies any family needs. Professional designers are available to help you design your house layout.",
     link: "/product1",
   },
