@@ -2,29 +2,35 @@ import React from "react";
 import { Link } from "react-router-dom";
 const PrefabricatedOffice = () => {
   const features = [
-    {
-      title: "Modern & Efficient Design",
-      description:
-        "Our prefabricated offices offer a modern and efficient workspace solution that can be deployed quickly at any location.",
-      image: "../../assets/images/offer.jpg",
+{
+      title: "Modern Compact Design",
+      desc: "Stylish, space-efficient container homes built for both comfort and functionality.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Custom Layout Options",
-      description:
-        "Each office can be customized for size, layout, and internal partitions to perfectly fit your organization’s needs.",
-      image: "../../assets/images/offer.jpg",
+      title: "Eco-Friendly Construction",
+      desc: "Made with recycled materials and energy-efficient systems for a sustainable lifestyle.",
+      image: "/src/assets/images/product2/containerhome.jpg",
     },
     {
-      title: "Fully Equipped Interiors",
-      description:
-        "Equipped with lighting, insulation, air conditioning, and electrical fittings — providing a professional environment instantly.",
-      image: "../../assets/images/offer.jpg",
+      title: "Fully Furnished Interiors",
+      desc: "Includes modern flooring, lighting, kitchen setups, and smart storage solutions.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Sustainable & Reusable",
-      description:
-        "Constructed with eco-friendly materials and designed to be reused or relocated without construction waste.",
-      image: "../../assets/images/offer.jpg",
+      title: "Smart Living Ready",
+      desc: "Integrate smart devices for climate control, lighting, and security to enhance convenience.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
+    },
+    {
+      title: "Strong & Durable",
+      desc: "Built using high-grade steel containers designed to withstand extreme environments.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
+    },
+    {
+      title: "Easy Setup & Relocation",
+      desc: "Portable and modular — can be installed, expanded, or relocated effortlessly.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
   ];
 

@@ -10,35 +10,35 @@ import smartImg from "../../assets/images/offer.jpg";
 
 const PrefabricatedHomes = () => {
   const features = [
-    {
-      title: "Modern Architecture",
-      desc: "Elegant, modular home designs built to suit your lifestyle and aesthetic preferences.",
-      image: modernImg,
+{
+      title: "Modern Compact Design",
+      desc: "Stylish, space-efficient container homes built for both comfort and functionality.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Eco-Friendly Materials",
-      desc: "Constructed using sustainable materials to reduce carbon footprint and enhance efficiency.",
-      image: ecoImg,
+      title: "Eco-Friendly Construction",
+      desc: "Made with recycled materials and energy-efficient systems for a sustainable lifestyle.",
+      image: "/src/assets/images/product2/containerhome.jpg",
     },
     {
-      title: "High-Quality Interiors",
-      desc: "Fully finished interiors with premium flooring, lighting, and built-in amenities.",
-      image: interiorImg,
+      title: "Fully Furnished Interiors",
+      desc: "Includes modern flooring, lighting, kitchen setups, and smart storage solutions.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Smart Home Ready",
-      desc: "Integrate smart systems like lighting, temperature, and security for a connected living experience.",
-      image: smartImg,
+      title: "Smart Living Ready",
+      desc: "Integrate smart devices for climate control, lighting, and security to enhance convenience.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Durable & Weatherproof",
-      desc: "Built to withstand extreme climates, ensuring long-lasting protection and comfort.",
-      image: durableImg,
+      title: "Strong & Durable",
+      desc: "Built using high-grade steel containers designed to withstand extreme environments.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Easy Transportation",
-      desc: "Compact, relocatable units that can be moved and reinstalled with minimal effort.",
-      image: transportImg,
+      title: "Easy Setup & Relocation",
+      desc: "Portable and modular — can be installed, expanded, or relocated effortlessly.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
   ];
 

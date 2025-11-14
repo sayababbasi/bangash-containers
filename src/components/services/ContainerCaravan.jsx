@@ -263,41 +263,35 @@ import smartImg from "../../assets/images/offer.jpg";
 
 const ContainerCaravan = () => {
   const features = [
-    {
-      title: "Mobile Living Spaces",
-      desc: "Our container caravans offer portable, comfortable living spaces ideal for travelers and remote site workers.",
-      image: modernImg,
-      link: "/product1",
+{
+      title: "Modern Compact Design",
+      desc: "Stylish, space-efficient container homes built for both comfort and functionality.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Eco-Friendly Build",
-      desc: "Each caravan is constructed using recyclable materials and designed for energy efficiency.",
-      image: ecoImg,
-      link: "/product2",
+      title: "Eco-Friendly Construction",
+      desc: "Made with recycled materials and energy-efficient systems for a sustainable lifestyle.",
+      image: "/src/assets/images/product2/containerhome.jpg",
     },
     {
-      title: "Stylish Interiors",
-      desc: "Fully furnished interiors with smart layouts, lighting, and all essential amenities for comfort.",
-      image: interiorImg,
-      link: "/product3",
+      title: "Fully Furnished Interiors",
+      desc: "Includes modern flooring, lighting, kitchen setups, and smart storage solutions.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Smart Utility Setup",
-      desc: "Integrated power, water, and solar solutions make it a self-sufficient mobile home.",
-      image: smartImg,
-      link: "/product4",
+      title: "Smart Living Ready",
+      desc: "Integrate smart devices for climate control, lighting, and security to enhance convenience.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Durable & Secure",
-      desc: "Built with high-grade steel and insulation to ensure safety, strength, and year-round usability.",
-      image: durableImg,
-      link: "/product5",
+      title: "Strong & Durable",
+      desc: "Built using high-grade steel containers designed to withstand extreme environments.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Easy Transport & Setup",
-      desc: "Easily relocatable — ready to deploy and set up within hours at your preferred location.",
-      image: transportImg,
-      link: "/product6",
+      title: "Easy Setup & Relocation",
+      desc: "Portable and modular — can be installed, expanded, or relocated effortlessly.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
   ];
 

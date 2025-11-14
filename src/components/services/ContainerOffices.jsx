@@ -10,37 +10,38 @@ import smartImg from "../../assets/images/offer.jpg";
 
 const ContainerOffices = () => {
   const features = [
-    {
-      title: "Modern Workspace Design",
-      desc: "Contemporary layouts with ergonomic design to boost comfort and productivity.",
-      image: modernImg,
+{
+      title: "Modern Compact Design",
+      desc: "Stylish, space-efficient container homes built for both comfort and functionality.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Eco-Friendly Materials",
-      desc: "Built with recycled and sustainable materials that minimize environmental impact.",
-      image: ecoImg,
+      title: "Eco-Friendly Construction",
+      desc: "Made with recycled materials and energy-efficient systems for a sustainable lifestyle.",
+      image: "/src/assets/images/WhyChooseUs/containerhome.jpg",
     },
     {
       title: "Fully Furnished Interiors",
-      desc: "Includes desks, lighting, ventilation, and smart storage — ready to use.",
-      image: interiorImg,
+      desc: "Includes modern flooring, lighting, kitchen setups, and smart storage solutions.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Smart Office Integration",
-      desc: "Supports IoT devices for automated lighting, temperature, and access control.",
-      image: smartImg,
+      title: "Smart Living Ready",
+      desc: "Integrate smart devices for climate control, lighting, and security to enhance convenience.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Durable & Secure",
-      desc: "Made from high-grade steel containers with insulation and anti-corrosion coating.",
-      image: durableImg,
+      title: "Strong & Durable",
+      desc: "Built using high-grade steel containers designed to withstand extreme environments.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Portable & Expandable",
-      desc: "Can be easily transported or expanded with modular add-ons for growing teams.",
-      image: transportImg,
+      title: "Easy Setup & Relocation",
+      desc: "Portable and modular — can be installed, expanded, or relocated effortlessly.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
   ];
+
 
   return (
     <main className="bg-gray-50 text-gray-800">

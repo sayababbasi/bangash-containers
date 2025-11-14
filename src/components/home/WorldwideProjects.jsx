@@ -9,32 +9,32 @@ import offerImg from "../../assets/images/product1/containerhallint2.jpg";
 // Project data with route links
 const projects = [
   {
-    img: offerImg,
+    img: "/src/assets/images/whychooseus/containerhome.jpg",
     title: "Container Homes",
     link: "services/container-homes",
   },
   {
-    img: offerImg,
+    img: "/src/assets/images/whychooseus/containeroffice.jpg",
     title: "Container Offices",
     link: "services/container-offices",
   },
   {
-    img: offerImg,
-    title: "Container Caravan",
+    img: "/src/assets/images/WhyChooseUs/ContainerCafe.jpg",
+    title: "Container Cafe",
     link: "services/container-caravan",
   },
   {
-    img: offerImg,
+    img: "/src/assets/images/whychooseus/PreFabHomes.jpg",
     title: "Prefabricated Homes",
     link: "services/prefabricated-homes",
   },
   {
-    img: offerImg,
+    img: "/src/assets/images/whychooseus/security.jpg",
     title: "Security Cabins",
     link: "services/security-cabins",
   },
   {
-    img: offerImg,
+    img: "/src/assets/images/whychooseus/PreFabHostel.jpg",
     title: "Prefabricated Office",
     link: "/services/fabricated-office",
   },

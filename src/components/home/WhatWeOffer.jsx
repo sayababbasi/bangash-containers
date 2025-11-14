@@ -165,19 +165,19 @@ const products = [
     link: "/product4",
   },
   {
-    title: "PreFab Homes",
+    title: "PreFab Homes", //5
     img: "/src/assets/images/whychooseus/prefabhomes.jpg",
     desc: "The visible parts of the house can be customized, including doors, windows, and walls.",
     link: "/product5",
   },
   {
-    title: "PreFab Hostel",
+    title: "PreFab Hostel", //6
     img: "/src/assets/images/whychooseus//prefabhostel.jpg",
     desc: "A modular green building that can be assembled on-site, saving time and cost.",
     link: "/product6",
   },
   {
-    title: "Container Office",
+    title: "Container Office",       //7
     img: "/src/assets/images/whychooseus/containeroffice.jpg",
     desc: "The visible parts of the house can be customized, including doors, windows, and walls.",
     link: "/product7",

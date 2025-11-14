@@ -1,6 +1,6 @@
 // src/components/home/AboutSection.jsx
 import React from "react";
-import aboutImg from "../../assets/images/offer.jpg"; // use a real image later
+import aboutImg from "/src/assets/images/whychooseus/BchOffice.jpg";
 import { CheckCircle } from "lucide-react";
 
 const AboutSectionHero = () => {

@@ -2,31 +2,38 @@ import React from "react";
 import { Link } from "react-router-dom";
 const SecurityCabins = () => {
   const features = [
-    {
-      title: "Compact & Functional Design",
-      description:
-        "Our security cabins are designed to offer maximum utility in limited space — perfect for guardrooms, checkpoints, and site offices.",
-      image: "../../assets/images/offer.jpg",
+{
+      title: "Modern Compact Design",
+      desc: "Stylish, space-efficient container homes built for both comfort and functionality.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Durable Construction",
-      description:
-        "Built with weather-resistant steel and high-quality materials ensuring long-term strength and minimal maintenance.",
-      image: "../../assets/images/offer.jpg",
+      title: "Eco-Friendly Construction",
+      desc: "Made with recycled materials and energy-efficient systems for a sustainable lifestyle.",
+      image: "/src/assets/images/product3/containerhome.jpg",
     },
     {
-      title: "Portable & Easy to Install",
-      description:
-        "These cabins are lightweight and easily movable, offering quick setup at any location.",
-      image: "../../assets/images/offer.jpg",
+      title: "Fully Furnished Interiors",
+      desc: "Includes modern flooring, lighting, kitchen setups, and smart storage solutions.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
     {
-      title: "Custom Interiors",
-      description:
-        "Available with built-in furniture, windows, lighting, and air conditioning options to suit your requirements.",
-      image: "../../assets/images/offer.jpg",
+      title: "Smart Living Ready",
+      desc: "Integrate smart devices for climate control, lighting, and security to enhance convenience.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
+    },
+    {
+      title: "Strong & Durable",
+      desc: "Built using high-grade steel containers designed to withstand extreme environments.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
+    },
+    {
+      title: "Easy Setup & Relocation",
+      desc: "Portable and modular — can be installed, expanded, or relocated effortlessly.",
+      image: "/src/assets/images/whychooseus/containerhome.jpg",
     },
   ];
+
 
   return (
     <div className="bg-gray-50 min-h-screen">

@@ -4,19 +4,20 @@ import { useNavigate } from "react-router-dom";
 
 // 🖼️ Import all images
 // 🖼️ Import all images
-import mainImg from "/src/assets/images/product1/containerhallint2.jpg";
-import interior1 from "/src/assets/images/product1/containerhallint2.jpg";
+import mainImg from "/src/assets/images/whychooseus/prefabhomes.jpg";
+import interior1 from "/src/assets/images/product1/containerhallint.jpg";
 import interior2 from "/src/assets/images/product1/containerhallint2.jpg";
-import interior3 from "/src/assets/images/product1/containerhallint2.jpg";
-import interior4 from "/src/assets/images/product1/containerhallint2.jpg";
-import case1 from "/src/assets/images/product1/containerhallint2.jpg";
-import case2 from "/src/assets/images/product1/containerhallint2.jpg";
-import case3 from "/src/assets/images/product1/containerhallint2.jpg";
-import case4 from "/src/assets/images/product1/containerhallint2.jpg";;
-import related1 from "/src/assets/images/product1/containerhallint2.jpg";
-import related2 from "/src/assets/images/product1/containerhallint2.jpg";
-import related3 from "/src/assets/images/product1/containerhallint2.jpg";
-import related4 from "/src/assets/images/product1/containerhallint2.jpg";
+import interior3 from "/src/assets/images/product1/containerhallint3.jpg";
+import interior4 from "/src/assets/images/product1/containerhallint4.jpg";
+import case1 from "/src/assets/images/product1/containerhallint5.jpg";
+import case2 from "/src/assets/images/product1/containerhallint6.jpg";
+import case3 from "/src/assets/images/product1/containerhallint7.jpg";
+import case4 from "/src/assets/images/product1/containerhallint8.jpg";;
+import related1 from "/src/assets/images/WhyChooseUs/ContainerHome.jpg";
+import related2 from "/src/assets/images/WhyChooseUs/ContainerOffice.jpg";
+import related3 from "/src/assets/images/WhyChooseUs/PreFabCabin.jpg";
+import related4 from "/src/assets/images/WhyChooseUs/PreFabHostel.jpg";
+
 const P1 = () => {
   const navigate = useNavigate();
 

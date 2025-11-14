@@ -6,7 +6,7 @@ const blogs = [
   {
     id: 1,
     title: "Transforming Shipping Containers into Modern Workspaces",
-    image: offerImage,
+    image: "/src/assets/images/whychooseus/containerhome.jpg",
     date: "October 20, 2025",
     excerpt:
       "Discover how Bangash Containers is redefining workspaces using eco-friendly, cost-effective, and modular container designs.",
@@ -14,7 +14,7 @@ const blogs = [
   {
     id: 2,
     title: "Why Container Homes Are the Future of Sustainable Living",
-    image: offerImage,
+    image: "/src/assets/images/whychooseus/containeroffice.jpg",
     date: "September 10, 2025",
     excerpt:
       "From concept to comfort — see how container homes are offering an affordable and eco-conscious solution for modern housing.",
@@ -22,7 +22,7 @@ const blogs = [
   {
     id: 3,
     title: "Storage Solutions That Save You Space and Money",
-    image: offerImage,
+    image: "/src/assets/images/whychooseus/containerhall.jpg",
     date: "August 22, 2025",
     excerpt:
       "Explore smart storage innovations by Bangash Containers designed for businesses that demand flexibility and reliability.",
@@ -30,7 +30,7 @@ const blogs = [
   {
     id: 4,
     title: "Innovative Prefab Designs for Modern Offices",
-    image: offerImage,
+    image: "/src/assets/images/whychooseus/BchOffice.jpg",
     date: "July 15, 2025",
     excerpt:
       "Revolutionizing office spaces with portable and stylish prefab container designs tailored for modern business needs.",
@@ -38,7 +38,7 @@ const blogs = [
   {
     id: 5,
     title: "Eco-Friendly Solutions: The Rise of Green Containers",
-    image: offerImage,
+    image: "/src/assets/images/whychooseus/PreFabHomes.jpg",
     date: "June 02, 2025",
     excerpt:
       "How Bangash Containers is contributing to sustainability through recycled, energy-efficient container builds.",
@@ -46,7 +46,7 @@ const blogs = [
   {
     id: 6,
     title: "From Site Offices to Luxury Cabins — Container Evolution",
-    image: offerImage,
+    image: "/src/assets/images/whychooseus/PreFabCabin.jpg",
     date: "May 10, 2025",
     excerpt:
       "Tracing the evolution of shipping containers from industrial use to stunning residential and commercial projects.",
