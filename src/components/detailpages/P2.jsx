@@ -18,6 +18,7 @@ import related3 from "/src/assets/images/WhyChooseUs/PreFabCabin.jpg";
 import related4 from "/src/assets/images/WhyChooseUs/PreFabHostel.jpg";
 
 
+
 const P1 = () => {
   const navigate = useNavigate();
 
